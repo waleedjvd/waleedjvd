@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @waleedjvd
+- 👀 I’m interested in Website Development.
+- 🌱 I’m currently learning Bscs.
